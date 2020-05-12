@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/usr/local/bin/python3.7",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "pythonIndent.useTabOnHangingIndent": true
+}
